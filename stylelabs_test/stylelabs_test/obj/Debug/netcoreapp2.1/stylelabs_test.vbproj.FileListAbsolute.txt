@@ -1,0 +1,12 @@
+C:\Users\olcay\source\repos\stylelabs_test\stylelabs_test\stylelabs_test\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\olcay\source\repos\stylelabs_test\stylelabs_test\stylelabs_test\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\olcay\source\repos\stylelabs_test\stylelabs_test\stylelabs_test\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\olcay\source\repos\stylelabs_test\stylelabs_test\stylelabs_test\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Users\olcay\source\repos\stylelabs_test\stylelabs_test\stylelabs_test\bin\Debug\netcoreapp2.1\stylelabs_test.deps.json
+C:\Users\olcay\source\repos\stylelabs_test\stylelabs_test\stylelabs_test\bin\Debug\netcoreapp2.1\stylelabs_test.runtimeconfig.json
+C:\Users\olcay\source\repos\stylelabs_test\stylelabs_test\stylelabs_test\bin\Debug\netcoreapp2.1\stylelabs_test.runtimeconfig.dev.json
+C:\Users\olcay\source\repos\stylelabs_test\stylelabs_test\stylelabs_test\bin\Debug\netcoreapp2.1\stylelabs_test.dll
+C:\Users\olcay\source\repos\stylelabs_test\stylelabs_test\stylelabs_test\obj\Debug\netcoreapp2.1\stylelabs_test.vbprojAssemblyReference.cache
+C:\Users\olcay\source\repos\stylelabs_test\stylelabs_test\stylelabs_test\obj\Debug\netcoreapp2.1\stylelabs_test.vbproj.CoreCompileInputs.cache
+C:\Users\olcay\source\repos\stylelabs_test\stylelabs_test\stylelabs_test\obj\Debug\netcoreapp2.1\stylelabs_test.AssemblyInfoInputs.cache
+C:\Users\olcay\source\repos\stylelabs_test\stylelabs_test\stylelabs_test\obj\Debug\netcoreapp2.1\stylelabs_test.AssemblyInfo.vb
